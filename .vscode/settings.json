@@ -1,0 +1,8 @@
+{
+    "sandbox.previewRunAction": "edit-instant",
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.withNodeModules": true,
+    "prettier.requireConfig": true,
+    "prettier.resolveGlobalModules": true
+}
